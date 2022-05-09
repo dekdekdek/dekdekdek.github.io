@@ -1,0 +1,38 @@
+body {
+ background-color:black;
+}
+
+  h1{
+  
+  font-size:50px;
+    color:white;
+    font-family: Helvetica, sans-serif;
+    
+  
+}
+
+.video-section {
+  padding: 50px;
+  text-align: center;
+
+  color: white;
+}
+
+img{
+   width: 40%; 
+    
+}
+
+p{
+  font-size: 18px;
+  color:white;
+  text-align:center;
+}
+
+.artist-statement{
+  font-size: 18px;
+  color:white;
+  text-align:center;
+  font-family: Verdana, sans-serif;
+  
+}
